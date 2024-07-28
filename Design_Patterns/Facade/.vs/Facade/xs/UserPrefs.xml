@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0F2E84E1-7EEE-440F-BEA1-558B5C4A4E93}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Facade PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacadeLuggageManagement.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="1" />
+      <File FileName="CheckLuggage.cs" Line="14" Column="10" />
+      <File FileName="Airplane.cs" Line="14" Column="10" />
+      <File FileName="LocalTransportCompany.cs" Line="14" Column="10" />
+      <File FileName="Hotel.cs" Line="9" Column="10" />
+      <File FileName="FacadeLuggageManagement.cs" Line="20" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Facade">
+            <Node name="Facade">
+              <Node name="FacadeLuggageManagement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zoo_Administration/1.0.0": {
+        "runtime": {
+          "Zoo_Administration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zoo_Administration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

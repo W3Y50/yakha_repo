@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\composite\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\composite\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\composite\\filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Directory.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\Directory.cs",
+              "RelativeDocumentMoniker": "Directory.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\Directory.cs",
+              "RelativeToolTip": "Directory.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:04:15.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\File.cs",
+              "RelativeDocumentMoniker": "File.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\File.cs",
+              "RelativeToolTip": "File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:03:53.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilesystemComponent.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\FilesystemComponent.cs",
+              "RelativeDocumentMoniker": "FilesystemComponent.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\FilesystemComponent.cs",
+              "RelativeToolTip": "FilesystemComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:02:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Composite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:02:13.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

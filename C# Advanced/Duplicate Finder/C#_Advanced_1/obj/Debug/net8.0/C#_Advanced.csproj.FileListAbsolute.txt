@@ -1,0 +1,30 @@
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.exe
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.deps.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.runtimeconfig.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.AssemblyInfoInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.AssemblyInfo.cs
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.sourcelink.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\refint\C#_Advanced.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.genruntimeconfig.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\C#_Advanced_1\C#_Advanced_1\obj\Debug\net8.0\ref\C#_Advanced.dll
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.exe
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.deps.json
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.runtimeconfig.json
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.dll
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\bin\Debug\net8.0\C#_Advanced.pdb
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.AssemblyInfoInputs.cache
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.AssemblyInfo.cs
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.sourcelink.json
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.dll
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\refint\C#_Advanced.dll
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.pdb
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\C#_Advanced.genruntimeconfig.cache
+C:\Users\pweye\Documents\GitHub\yakha-repo\C# Advanced\C# Advanced\C#_Advanced_1\obj\Debug\net8.0\ref\C#_Advanced.dll

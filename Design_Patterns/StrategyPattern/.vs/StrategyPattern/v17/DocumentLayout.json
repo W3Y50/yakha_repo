@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\strategypattern\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|solutionrelative:investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\strategypattern\\stockmarketinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|solutionrelative:stockmarketinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\strategypattern\\iinvestmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|solutionrelative:iinvestmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\strategypattern\\oilinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|solutionrelative:oilinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\strategypattern\\goldinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|StrategyPattern.csproj|solutionrelative:goldinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:09:23.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockMarketInvestment.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\StockMarketInvestment.cs",
+              "RelativeDocumentMoniker": "StockMarketInvestment.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\StockMarketInvestment.cs",
+              "RelativeToolTip": "StockMarketInvestment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:09:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Investment.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\Investment.cs",
+              "RelativeDocumentMoniker": "Investment.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\Investment.cs",
+              "RelativeToolTip": "Investment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:09:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInvestmentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\IInvestmentStrategy.cs",
+              "RelativeDocumentMoniker": "IInvestmentStrategy.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\IInvestmentStrategy.cs",
+              "RelativeToolTip": "IInvestmentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:09:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OilInvestment.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\OilInvestment.cs",
+              "RelativeDocumentMoniker": "OilInvestment.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\OilInvestment.cs",
+              "RelativeToolTip": "OilInvestment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:08:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoldInvestment.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\GoldInvestment.cs",
+              "RelativeDocumentMoniker": "GoldInvestment.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\StrategyPattern\\GoldInvestment.cs",
+              "RelativeToolTip": "GoldInvestment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:08:09.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7CECCE88-9540-437E-BCFC-1CA2B8CC8C9B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Command PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="44" />
+      <File FileName="WithdrawCommand.cs" />
+      <File FileName="CashMachine.cs" />
+      <File FileName="IBankTransactionCommand.cs" />
+      <File FileName="DepositCommand.cs" />
+      <File FileName="BankAccount.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Command" expanded="True">
+            <Node name="Command" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

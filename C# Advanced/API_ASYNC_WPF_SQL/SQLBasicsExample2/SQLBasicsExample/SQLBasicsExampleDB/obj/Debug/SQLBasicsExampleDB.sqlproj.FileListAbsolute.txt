@@ -1,0 +1,12 @@
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dacpac
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.pdb
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.sqlproj.AssemblyReference.cache
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dacpac
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.sqlproj.AssemblyReference.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.pdb

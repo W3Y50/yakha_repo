@@ -1,0 +1,29 @@
+﻿** Hervorhebungen
+     Tabellen, die mit migrierten Daten neu erstellt werden
+       Kein
+     Gruppierte Indizes, die gelöscht werden.
+       Kein
+     Gruppierte Indizes, die erstellt werden.
+       Kein
+     Mögliche Datenprobleme
+       Die Spalte "[dbo].[Products].[Description]" wird gelöscht, es könnte zu einem Datenverlust kommen.
+       Die Spalte "[dbo].[Products].[isAvailable]" in der Tabelle "[dbo].[Products]" muss hinzugefügt werden, besitzt jedoch
+         keinen Standardwert und unterstützt keine NULL-Werte. Wenn die Tabelle Daten enthält, funktioniert das ALTER-Skript
+         nicht. Um dieses Problem zu vermeiden, müssen Sie der Spalte einen Standardwert hinzufügen, sie so kennzeichnen, dass
+         NULL-Werte zulässig sind, oder die Generierung von intelligenten Standardwerten als Bereitstellungsoption aktivieren.
+
+** Benutzeraktionen
+     Ändern
+       [dbo].[Products] (Tabelle)
+       [dbo].[INSERT_Product] (Prozedur)
+       [dbo].[RETRIEVE_AllProducts] (Prozedur)
+
+** Unterstützende Aktionen
+     Aktualisieren
+       [dbo].[RETRIEVE_TitleForProduct] (Prozedur)
+
+Die Spalte "[dbo].[Products].[Description]" wird gelöscht, es könnte zu einem Datenverlust kommen.
+Die Spalte "[dbo].[Products].[isAvailable]" in der Tabelle "[dbo].[Products]" muss hinzugefügt werden, besitzt jedoch keinen Standardwert und unterstützt keine NULL-Werte. Wenn die Tabelle Daten enthält, funktioniert das ALTER-Skript nicht. Um dieses Problem zu vermeiden, müssen Sie der Spalte einen Standardwert hinzufügen, sie so kennzeichnen, dass NULL-Werte zulässig sind, oder die Generierung von intelligenten Standardwerten als Bereitstellungsoption aktivieren.
+Wenn diese Bereitstellung ausgeführt wird, führen Änderungen an [dbo].[Products] möglicherweise zu Laufzeitfehlern in [dbo].[RETRIEVE_ProductsByName].
+Wenn diese Bereitstellung ausgeführt wird, führen Änderungen an [dbo].[Products] möglicherweise zu Laufzeitfehlern in [dbo].[UPDATE_ProductTitle].
+

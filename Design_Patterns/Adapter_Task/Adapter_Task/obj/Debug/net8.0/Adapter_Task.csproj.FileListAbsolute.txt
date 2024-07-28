@@ -1,0 +1,15 @@
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\bin\Debug\net8.0\Adapter_Task.exe
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\bin\Debug\net8.0\Adapter_Task.deps.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\bin\Debug\net8.0\Adapter_Task.runtimeconfig.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\bin\Debug\net8.0\Adapter_Task.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\bin\Debug\net8.0\Adapter_Task.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.AssemblyInfoInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.AssemblyInfo.cs
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.sourcelink.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\refint\Adapter_Task.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\Adapter_Task.genruntimeconfig.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\design_patterns\Adapter\Adapter_Task\Adapter_Task\obj\Debug\net8.0\ref\Adapter_Task.dll

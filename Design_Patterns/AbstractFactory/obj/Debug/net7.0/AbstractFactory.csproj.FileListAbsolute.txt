@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/Users/txpert/Projects/design_patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/Users/txpert/Projects/design_patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/Users/txpert/Projects/design_patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll

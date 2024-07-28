@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F6DDF781-A81E-45A8-BD00-EA864F75CEFF}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StrategyPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Investment.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="43" />
+      <File FileName="IInvestmentStrategy.cs" Line="6" Column="41" />
+      <File FileName="GoldInvestment.cs" Line="9" Column="83" />
+      <File FileName="StockMarketInvestment.cs" Line="9" Column="95" />
+      <File FileName="CryptoInvestment.cs" Line="8" Column="95" />
+      <File FileName="Investment.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StrategyPattern" expanded="True">
+            <Node name="StrategyPattern">
+              <Node name="Investment.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

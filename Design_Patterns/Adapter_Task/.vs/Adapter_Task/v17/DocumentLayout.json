@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\adapter_task\\adapter_task\\googlemailserveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|solutionrelative:adapter_task\\googlemailserveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\adapter_task\\adapter_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|solutionrelative:adapter_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\adapter_task\\adapter_task\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|solutionrelative:adapter_task\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\adapter_task\\adapter_task\\imailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B55206-A359-44DD-B0BD-27339899FE11}|Adapter_Task\\Adapter_Task.csproj|solutionrelative:adapter_task\\imailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleMailServerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\GoogleMailServerAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter_Task\\GoogleMailServerAdapter.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\GoogleMailServerAdapter.cs",
+              "RelativeToolTip": "Adapter_Task\\GoogleMailServerAdapter.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:42:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMailServer.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\IMailServer.cs",
+              "RelativeDocumentMoniker": "Adapter_Task\\IMailServer.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\IMailServer.cs",
+              "RelativeToolTip": "Adapter_Task\\IMailServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:42:11.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoogleMailServer.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\GoogleMailServer.cs",
+              "RelativeDocumentMoniker": "Adapter_Task\\GoogleMailServer.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\GoogleMailServer.cs",
+              "RelativeToolTip": "Adapter_Task\\GoogleMailServer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:41:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter_Task\\Adapter_Task\\Program.cs",
+              "RelativeToolTip": "Adapter_Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:38:40.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

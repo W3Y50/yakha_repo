@@ -1,0 +1,48 @@
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.exe
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.deps.json
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.runtimeconfig.json
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.pdb
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.csproj.AssemblyReference.cache
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.AssemblyInfoInputs.cache
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.AssemblyInfo.cs
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.csproj.CoreCompileInputs.cache
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasic.DF74F9B2.Up2Date
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\refint\SQLBasicsExample.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.pdb
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.genruntimeconfig.cache
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\ref\SQLBasicsExample.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.exe
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.deps.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.runtimeconfig.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\SQLBasicsExample.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.csproj.AssemblyReference.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.AssemblyInfoInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.AssemblyInfo.cs
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.sourcelink.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasic.DF74F9B2.Up2Date
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\refint\SQLBasicsExample.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\SQLBasicsExample.genruntimeconfig.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\obj\Debug\net8.0\ref\SQLBasicsExample.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\ModelBib.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\SQLBasicsExample\bin\Debug\net8.0\ModelBib.pdb

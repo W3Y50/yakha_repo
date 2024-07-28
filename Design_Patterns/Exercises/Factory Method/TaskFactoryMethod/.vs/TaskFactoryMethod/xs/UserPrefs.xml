@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E597C6E8-5F97-4878-B1F7-9279F7665D20}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TaskFactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="3" Column="14" />
+      <File FileName="Shield.cs" Line="15" Column="31" />
+      <File FileName="Hammer.cs" Line="12" Column="1" />
+      <File FileName="ItemFactory.cs" Line="20" Column="10" />
+      <File FileName="ConcreteItemFactory.cs" Line="6" Column="8" />
+      <File FileName="Item.cs" Line="15" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskFactoryMethod" expanded="True">
+            <Node name="TaskFactoryMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

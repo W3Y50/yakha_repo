@@ -1,0 +1,12 @@
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\bin\Debug\net8.0\ModelBib.deps.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\bin\Debug\net8.0\ModelBib.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\bin\Debug\net8.0\ModelBib.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ModelBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ModelBib.AssemblyInfoInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ModelBib.AssemblyInfo.cs
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ModelBib.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ModelBib.sourcelink.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ModelBib.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\refint\ModelBib.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ModelBib.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicsExample\SQLBasicsExample\ModelBib\obj\Debug\net8.0\ref\ModelBib.dll

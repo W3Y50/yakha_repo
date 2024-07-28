@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E4C53479-9576-47AE-9798-D6BE111C3322}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Iterator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IChannelIterator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="41" />
+      <File FileName="CarRadio.cs" Line="28" Column="32" />
+      <File FileName="ChannelIteratorNormal.cs" Line="11" Column="71" />
+      <File FileName="Channel.cs" Line="16" Column="10" />
+      <File FileName="IChannelCollection.cs" Line="9" Column="6" />
+      <File FileName="IChannelIterator.cs" Line="7" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iterator" expanded="True">
+            <Node name="Iterator">
+              <Node name="IChannelIterator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

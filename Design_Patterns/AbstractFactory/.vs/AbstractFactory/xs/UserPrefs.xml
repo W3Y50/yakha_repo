@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{068DFB07-3037-4D04-88CC-5B4630E2D88B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="56" />
+      <File FileName="ControllerBoard.cs" Line="24" Column="38" />
+      <File FileName="FlyFactory.cs" Line="5" Column="31" />
+      <File FileName="QuadroFactory.cs" Line="6" Column="19" />
+      <File FileName="QuadrocopterFactory.cs" Line="16" Column="1" />
+      <File FileName="FlyRegulator.cs" Line="18" Column="1" />
+      <File FileName="QuadroRegulator.cs" Line="18" Column="1" />
+      <File FileName="FlyEngine.cs" Line="12" Column="30" />
+      <File FileName="QuadroEngine.cs" Line="5" Column="32" />
+      <File FileName="Regulator.cs" Line="12" Column="37" />
+      <File FileName="Engine.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactory">
+            <Node name="AbstractFactory">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

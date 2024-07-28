@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\templatemethod\\developerworkday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|solutionrelative:developerworkday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\templatemethod\\workdayplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|solutionrelative:workdayplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\templatemethod\\managerworkday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|solutionrelative:managerworkday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\templatemethod\\policeofficerworkday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981A2BBC-7673-423D-A135-2607D93BCE5E}|TemplateMethod.csproj|solutionrelative:policeofficerworkday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkdayPlanner.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\WorkdayPlanner.cs",
+              "RelativeDocumentMoniker": "WorkdayPlanner.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\WorkdayPlanner.cs",
+              "RelativeToolTip": "WorkdayPlanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:38:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeveloperWorkday.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\DeveloperWorkday.cs",
+              "RelativeDocumentMoniker": "DeveloperWorkday.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\DeveloperWorkday.cs",
+              "RelativeToolTip": "DeveloperWorkday.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:36:25.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerWorkday.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\ManagerWorkday.cs",
+              "RelativeDocumentMoniker": "ManagerWorkday.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\ManagerWorkday.cs",
+              "RelativeToolTip": "ManagerWorkday.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:36:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoliceOfficerWorkday.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\PoliceOfficerWorkday.cs",
+              "RelativeDocumentMoniker": "PoliceOfficerWorkday.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\PoliceOfficerWorkday.cs",
+              "RelativeToolTip": "PoliceOfficerWorkday.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:36:00.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\TemplateMethod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:35:54.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

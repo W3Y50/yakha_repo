@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C69F27D-7F3C-42B3-ABB5-F8A2B7637A09}|Adapter.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\adapter\\adapter_task\\adapter_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C69F27D-7F3C-42B3-ABB5-F8A2B7637A09}|Adapter.csproj|solutionrelative:adapter_task\\adapter_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C69F27D-7F3C-42B3-ABB5-F8A2B7637A09}|Adapter.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C69F27D-7F3C-42B3-ABB5-F8A2B7637A09}|Adapter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter\\Adapter_Task\\Adapter_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter_Task\\Adapter_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter\\Adapter_Task\\Adapter_Task\\Program.cs",
+              "RelativeToolTip": "Adapter_Task\\Adapter_Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:32:48.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\Adapter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:33:27.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\awaitthings\awaitthings\obj\Debug\net8.0\awaitthings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\awaitthings\awaitthings\obj\Debug\net8.0\awaitthings.AssemblyInfoInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\awaitthings\awaitthings\obj\Debug\net8.0\awaitthings.AssemblyInfo.cs
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\awaitthings\awaitthings\obj\Debug\net8.0\awaitthings.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\awaitthings\awaitthings\obj\Debug\net8.0\awaitthings.sourcelink.json

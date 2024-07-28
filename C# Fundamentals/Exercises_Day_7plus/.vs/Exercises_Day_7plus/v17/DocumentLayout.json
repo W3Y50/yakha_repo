@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\exercises_day_7plus\\exercises_day_7\u002B\\day8and9\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|solutionrelative:exercises_day_7\u002B\\day8and9\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\exercises_day_7plus\\exercises_day_7\u002B\\day10\\playaround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|solutionrelative:exercises_day_7\u002B\\day10\\playaround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\exercises_day_7plus\\exercises_day_7\u002B\\day8and9\\christmastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|solutionrelative:exercises_day_7\u002B\\day8and9\\christmastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\exercises_day_7plus\\exercises_day_7\u002B\\exercises_day_7plus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|solutionrelative:exercises_day_7\u002B\\exercises_day_7plus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\exercises_day_7plus\\exercises_day_7\u002B\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|solutionrelative:exercises_day_7\u002B\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\exercises_day_7plus\\exercises_day_7\u002B\\day8and9\\regex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|solutionrelative:exercises_day_7\u002B\\day8and9\\regex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\exercises_day_7plus\\exercises_day_7\u002B\\day8and9\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BB5091-D711-4E80-B0D2-B1F6E9008F29}|Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj|solutionrelative:exercises_day_7\u002B\\day8and9\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayAround.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day10\\PlayAround.cs",
+              "RelativeDocumentMoniker": "Exercises_Day_7\u002B\\Day10\\PlayAround.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day10\\PlayAround.cs",
+              "RelativeToolTip": "Exercises_Day_7\u002B\\Day10\\PlayAround.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:10:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercises_Day_7plus",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj",
+              "RelativeDocumentMoniker": "Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj",
+              "RelativeToolTip": "Exercises_Day_7\u002B\\Exercises_Day_7plus.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T08:07:19.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChristmasTest.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\ChristmasTest.cs",
+              "RelativeDocumentMoniker": "Exercises_Day_7\u002B\\Day8and9\\ChristmasTest.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\ChristmasTest.cs",
+              "RelativeToolTip": "Exercises_Day_7\u002B\\Day8and9\\ChristmasTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:31:02.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\Delegate.cs",
+              "RelativeDocumentMoniker": "Exercises_Day_7\u002B\\Day8and9\\Delegate.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\Delegate.cs",
+              "RelativeToolTip": "Exercises_Day_7\u002B\\Day8and9\\Delegate.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:38:40.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\Events.cs",
+              "RelativeDocumentMoniker": "Exercises_Day_7\u002B\\Day8and9\\Events.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\Events.cs",
+              "RelativeToolTip": "Exercises_Day_7\u002B\\Day8and9\\Events.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAA8wCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:37:46.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegEx.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\RegEx.cs",
+              "RelativeDocumentMoniker": "Exercises_Day_7\u002B\\Day8and9\\RegEx.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day8and9\\RegEx.cs",
+              "RelativeToolTip": "Exercises_Day_7\u002B\\Day8and9\\RegEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:37:56.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day7\\Program.cs",
+              "RelativeDocumentMoniker": "Exercises_Day_7\u002B\\Day7\\Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7\u002B\\Day7\\Program.cs",
+              "RelativeToolTip": "Exercises_Day_7\u002B\\Day7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:11:48.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

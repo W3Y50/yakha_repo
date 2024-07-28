@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/Observer/bin/Debug/net7.0/Observer
+/Users/txpert/Projects/design_patterns/Observer/bin/Debug/net7.0/Observer.deps.json
+/Users/txpert/Projects/design_patterns/Observer/bin/Debug/net7.0/Observer.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/Observer/bin/Debug/net7.0/Observer.dll
+/Users/txpert/Projects/design_patterns/Observer/bin/Debug/net7.0/Observer.pdb
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.dll
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/refint/Observer.dll
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.pdb
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/Observer.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/Observer/obj/Debug/net7.0/ref/Observer.dll

@@ -1,0 +1,19 @@
+﻿** Hervorhebungen
+     Tabellen, die mit migrierten Daten neu erstellt werden
+       Kein
+     Gruppierte Indizes, die gelöscht werden.
+       Kein
+     Gruppierte Indizes, die erstellt werden.
+       Kein
+     Mögliche Datenprobleme
+       Kein
+
+** Benutzeraktionen
+     Ändern
+       [dbo].[Products] (Tabelle)
+
+** Unterstützende Aktionen
+     Aktualisieren
+       [dbo].[INSERT_Product] (Prozedur)
+       [dbo].[RETRIEVE_AllProducts] (Prozedur)
+       [dbo].[RETRIEVE_TitleForProduct] (Prozedur)

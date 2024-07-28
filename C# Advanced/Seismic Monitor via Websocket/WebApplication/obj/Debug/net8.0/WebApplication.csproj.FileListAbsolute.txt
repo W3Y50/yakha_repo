@@ -1,0 +1,7 @@
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\WebApplication\obj\Debug\net8.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\WebApplication\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\WebApplication\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\WebApplication\obj\Debug\net8.0\WebApplication.sourcelink.json

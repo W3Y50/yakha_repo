@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\iterator\\ichannelcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:ichannelcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\iterator\\channeliteratornormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:channeliteratornormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\iterator\\ichanneliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:ichanneliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\iterator\\carradio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:carradio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\pweye\\desktop\\yakha\\yakha-repo\\design_patterns\\design_patterns\\iterator\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRadio.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\CarRadio.cs",
+              "RelativeDocumentMoniker": "CarRadio.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\CarRadio.cs",
+              "RelativeToolTip": "CarRadio.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:18:09.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\Channel.cs",
+              "RelativeDocumentMoniker": "Channel.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\Channel.cs",
+              "RelativeToolTip": "Channel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:18:04.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChannelIteratorNormal.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\ChannelIteratorNormal.cs",
+              "RelativeDocumentMoniker": "ChannelIteratorNormal.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\ChannelIteratorNormal.cs",
+              "RelativeToolTip": "ChannelIteratorNormal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:17:32.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IChannelCollection.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\IChannelCollection.cs",
+              "RelativeDocumentMoniker": "IChannelCollection.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\IChannelCollection.cs",
+              "RelativeToolTip": "IChannelCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:17:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IChannelIterator.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\IChannelIterator.cs",
+              "RelativeDocumentMoniker": "IChannelIterator.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\IChannelIterator.cs",
+              "RelativeToolTip": "IChannelIterator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:17:19.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\design_patterns\\Iterator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:16:53.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

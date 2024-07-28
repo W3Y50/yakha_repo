@@ -1,0 +1,15 @@
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\bin\Debug\net7.0\BeispielFactoryMethod.exe
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\bin\Debug\net7.0\BeispielFactoryMethod.deps.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\bin\Debug\net7.0\BeispielFactoryMethod.runtimeconfig.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\bin\Debug\net7.0\BeispielFactoryMethod.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\bin\Debug\net7.0\BeispielFactoryMethod.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.AssemblyInfo.cs
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.sourcelink.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\refint\BeispielFactoryMethod.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\BeispielFactoryMethod.genruntimeconfig.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Design_Patterns\BeispielFactoryMethod\obj\Debug\net7.0\ref\BeispielFactoryMethod.dll

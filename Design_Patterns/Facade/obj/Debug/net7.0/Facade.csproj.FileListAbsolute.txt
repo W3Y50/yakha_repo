@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/Facade/bin/Debug/net7.0/Facade
+/Users/txpert/Projects/design_patterns/Facade/bin/Debug/net7.0/Facade.deps.json
+/Users/txpert/Projects/design_patterns/Facade/bin/Debug/net7.0/Facade.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/Facade/bin/Debug/net7.0/Facade.dll
+/Users/txpert/Projects/design_patterns/Facade/bin/Debug/net7.0/Facade.pdb
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.dll
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/refint/Facade.dll
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.pdb
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/Facade.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/Facade/obj/Debug/net7.0/ref/Facade.dll

@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/bin/Debug/net7.0/TaskAdapter
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/bin/Debug/net7.0/TaskAdapter.deps.json
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/bin/Debug/net7.0/TaskAdapter.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/bin/Debug/net7.0/TaskAdapter.dll
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/bin/Debug/net7.0/TaskAdapter.pdb
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.dll
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/refint/TaskAdapter.dll
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.pdb
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/TaskAdapter.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/Exercises/Adapter Pattern/TaskAdapter/obj/Debug/net7.0/ref/TaskAdapter.dll

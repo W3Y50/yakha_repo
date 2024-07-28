@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{320B568B-3C1E-4009-8248-45C1337266CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaskAdapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="27" />
+      <File FileName="GoogleMailServer.cs" />
+      <File FileName="GoogleMailAdapter.cs" Line="9" Column="10" />
+      <File FileName="IEmailSender.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskAdapter" expanded="True">
+            <Node name="TaskAdapter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

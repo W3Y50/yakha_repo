@@ -1,0 +1,133 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Complaint Registration System" Height="520" Width="800" Closing="Window_Closing">
+    <Window.Background>
+        <ImageBrush Stretch="UniformToFill" ImageSource="/need-help-2939262_1280.png"/>
+    </Window.Background>
+    <Grid RenderTransformOrigin="0.503,0.492">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11*"></ColumnDefinition>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="402*"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="247*"/>
+            <ColumnDefinition Width="40"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="2" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="73,0,0,0">
+            <Label Content="All recognized complaints:" FontWeight="Bold"/>
+            <ListBox x:Name="Listbox1" Height="113" SelectionChanged="Listbox1_SelectionChanged" BorderBrush="#FF11ADEF"/>
+            <ComboBox Name ="ComboSearch"  IsEditable="True" IsReadOnly="True" Text="-- Select search your parameter --" Width="205" Margin ="10" BorderBrush="#FF11ADEF" HorizontalAlignment="Center" Focusable="False" ToolTip="Choose your search parameter...">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="#FFF0F0F0"/>
+                        <GradientStop Color="#FF11ADEF" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <TextBox Name ="TextSearch" Text="Enter your search parameter..." Height="20" TextWrapping="Wrap" Width="174" Margin ="10" HorizontalAlignment="Center" BorderBrush="#FF11ADEF"/>
+            <Button x:Name ="BottonSearch" Content="Search" Height="40" Margin ="10" Click="BottonSearch_Click" BorderBrush="#FF11ADEF" Background="#FF11ADEF" FontWeight="Bold"/>
+            <ListBox x:Name="ListboxSearch" Height="90" SelectionChanged="ListboxSearch_SelectionChanged" BorderBrush="#FF11ADEF"/>
+
+            <Button x:Name ="BottonNewCompliant" Content="New Complaint" Height="40" Margin ="15" Click="BottonNewCompliant_Click" Background="#FF11ADEF" FontWeight="Bold"/>
+        </StackPanel>
+        <StackPanel Grid.Column="3" HorizontalAlignment="Center">
+            <StackPanel.Background>
+                <ImageBrush/>
+            </StackPanel.Background>
+            <Label Height="24"></Label>
+            <Label Name="Label2" Content="Id:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label3" Content="Describtion:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label4" Content="Location:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label5" Content="Category:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label6" Content="Status:" Foreground="White" FontWeight="Bold"></Label>
+            <Label></Label>
+            <Label Name="Label7" Content="Created at:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label8" Content="Updated at:" Foreground="White" FontWeight="Bold"></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label Name="Label9" Content="Person Id:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label10" Content="Name:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label11" Content="Building:" Foreground="White" FontWeight="Bold"></Label>
+            <Label Name="Label12" Content="Apartment:" Foreground="White" FontWeight="Bold"></Label>
+        </StackPanel>
+        <StackPanel Grid.Column="4" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Label Content="Complaint:" Margin ="0" FontWeight="Bold"></Label>
+            <TextBox Name ="TextId" Height="20" TextWrapping="Wrap" Width="174" IsEnabled="False" HorizontalAlignment="Center" BorderBrush="#FF11ADEF"/>
+            <TextBox Name ="TextDescription" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" TextChanged="TextDescription_TextChanged" BorderBrush="#FF11ADEF"/>
+            <TextBox Name ="TextLocation" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" TextChanged="TextLocation_TextChanged" BorderBrush="#FF11ADEF"/>
+            <ComboBox Name ="ComboCategory" Text="category" Width="174" Margin ="4" SelectionChanged="ComboCategory_SelectionChanged" BorderBrush="#FF11ADEF">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="#FFF0F0F0"/>
+                        <GradientStop Color="#FF11ADEF" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <ComboBox Name ="ComboStatus" Text="status" Width="174" Margin ="4" SelectionChanged="ComboStatus_SelectionChanged" BorderBrush="#FF11ADEF">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="#FFF0F0F0"/>
+                        <GradientStop Color="#FF11ADEF" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <TextBox Name ="TextCreatedAt" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" TextChanged="TextCreatedAt_TextChanged" BorderBrush="#FF11ADEF"/>
+            <TextBox Name ="TextUpdatedAt" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" TextChanged="TextUpdatedAt_TextChanged" BorderBrush="#FF11ADEF"/>
+            <TextBox Name ="TextComplainant" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" IsEnabled="False" Visibility="Hidden"/>
+            <Label Content="Person:" Margin ="0" FontWeight="Bold"></Label>
+            <TextBox Name ="TextPersID" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" IsEnabled="False" BorderBrush="#FF11ADEF"/>
+            <TextBox Name ="TextPersName" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" TextChanged="TextPersName_TextChanged" BorderBrush="#FF11ADEF"/>
+            <TextBox Name ="TextPersBuilding" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" TextChanged="TextPersBuilding_TextChanged" BorderBrush="#FF11ADEF"/>
+            <TextBox Name ="TextPersApartment" Height="20" TextWrapping="Wrap" Width="174" Margin ="4" TextChanged="TextPersApartment_TextChanged"/>
+            <Button Name ="BottonSaveData" Content="Save" Click="BottonSaveData_Click" Margin="4" Height="40" Width="180" Background="#FF11ADEF" FontWeight="Bold"/>
+        </StackPanel>
+        <StackPanel Grid.Column="5">
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <Label></Label>
+            <DatePicker Name ="DatepickerCreatedAt" Height="20" Width="30" Margin ="4" SelectedDateChanged="DatepickerCreatedAt_SelectionChanged">
+                <DatePicker.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                        <GradientStop Color="#FFA3AEB9"/>
+                        <GradientStop Color="#FF8399A9" Offset="0.375"/>
+                        <GradientStop Color="#FF718597" Offset="0.375"/>
+                        <GradientStop Color="#FF11ADEF" Offset="1"/>
+                    </LinearGradientBrush>
+                </DatePicker.BorderBrush>
+            </DatePicker>
+            <DatePicker Name ="DatepickerUpdateAt" Height="20" Width="30" Margin ="4"  SelectedDateChanged="DatepickerUpdateAt_SelectionChanged">
+                <DatePicker.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                        <GradientStop Color="#FFA3AEB9"/>
+                        <GradientStop Color="#FF8399A9" Offset="0.375"/>
+                        <GradientStop Color="#FF718597" Offset="0.375"/>
+                        <GradientStop Color="#FF11ADEF" Offset="1"/>
+                    </LinearGradientBrush>
+                </DatePicker.BorderBrush>
+            </DatePicker>
+        </StackPanel>
+    </Grid>
+</Window>

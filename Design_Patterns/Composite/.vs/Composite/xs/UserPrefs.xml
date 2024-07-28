@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Composite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="File.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="90" />
+      <File FileName="File.cs" Line="10" Column="47" />
+      <File FileName="Directory.cs" Line="64" Column="1" />
+      <File FileName="FilesystemComponent.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Composite" expanded="True">
+            <Node name="Composite">
+              <Node name="File.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

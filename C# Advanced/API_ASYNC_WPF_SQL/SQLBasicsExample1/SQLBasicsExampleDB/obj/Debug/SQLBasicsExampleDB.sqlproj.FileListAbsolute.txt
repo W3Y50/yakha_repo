@@ -1,0 +1,18 @@
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dacpac
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.pdb
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.sqlproj.AssemblyReference.cache
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.dll
+C:\Main Files\Conficiens solutio\freelance projects\ITstat d o o\depositor project\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.pdb
+A:\Courses\live training\yakha\Training days\day 1 may 21\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dacpac
+A:\Courses\live training\yakha\Training days\day 1 may 21\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dll
+A:\Courses\live training\yakha\Training days\day 1 may 21\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.pdb
+A:\Courses\live training\yakha\Training days\day 1 may 21\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.sqlproj.AssemblyReference.cache
+A:\Courses\live training\yakha\Training days\day 1 may 21\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.dll
+A:\Courses\live training\yakha\Training days\day 1 may 21\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicExample2\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dacpac
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicExample2\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicExample2\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\bin\Debug\SQLBasicsExampleDB.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicExample2\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.sqlproj.AssemblyReference.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicExample2\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\C# Advanced\Database_Stuff\SQLBasicExample2\SQLBasicsExample\SQLBasicsExample\SQLBasicsExampleDB\obj\Debug\SQLBasicsExampleDB.pdb

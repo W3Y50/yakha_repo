@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[Products] (Table)
+       [dbo].[RETRIEVE_AllProducts] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[INSERT_Product] (Procedure)
+       [dbo].[RETRIEVE_TitleForProduct] (Procedure)

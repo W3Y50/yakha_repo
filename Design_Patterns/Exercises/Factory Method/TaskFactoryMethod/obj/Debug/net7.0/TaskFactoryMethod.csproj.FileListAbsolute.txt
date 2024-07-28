@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/bin/Debug/net7.0/TaskFactoryMethod
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/bin/Debug/net7.0/TaskFactoryMethod.deps.json
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/bin/Debug/net7.0/TaskFactoryMethod.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/bin/Debug/net7.0/TaskFactoryMethod.dll
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/bin/Debug/net7.0/TaskFactoryMethod.pdb
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.dll
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/refint/TaskFactoryMethod.dll
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.pdb
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/TaskFactoryMethod.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/Exercises/Factory Method/TaskFactoryMethod/obj/Debug/net7.0/ref/TaskFactoryMethod.dll

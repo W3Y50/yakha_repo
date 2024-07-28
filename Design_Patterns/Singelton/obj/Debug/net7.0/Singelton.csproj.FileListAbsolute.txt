@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/Singelton/bin/Debug/net7.0/Singelton
+/Users/txpert/Projects/design_patterns/Singelton/bin/Debug/net7.0/Singelton.deps.json
+/Users/txpert/Projects/design_patterns/Singelton/bin/Debug/net7.0/Singelton.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/Singelton/bin/Debug/net7.0/Singelton.dll
+/Users/txpert/Projects/design_patterns/Singelton/bin/Debug/net7.0/Singelton.pdb
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.dll
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/refint/Singelton.dll
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.pdb
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/Singelton.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/Singelton/obj/Debug/net7.0/ref/Singelton.dll

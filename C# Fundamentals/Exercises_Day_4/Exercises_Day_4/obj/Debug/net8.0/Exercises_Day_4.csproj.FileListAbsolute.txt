@@ -1,0 +1,15 @@
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.AssemblyInfoInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.AssemblyInfo.cs
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.csproj.CoreCompileInputs.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.sourcelink.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\bin\Debug\net8.0\Exercises_Day_4.exe
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\bin\Debug\net8.0\Exercises_Day_4.deps.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\bin\Debug\net8.0\Exercises_Day_4.runtimeconfig.json
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\bin\Debug\net8.0\Exercises_Day_4.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\bin\Debug\net8.0\Exercises_Day_4.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\refint\Exercises_Day_4.dll
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.pdb
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\Exercises_Day_4.genruntimeconfig.cache
+C:\Users\pweye\Desktop\yakha\yakha-repo\Exercises_Day_4\Exercises_Day_4\obj\Debug\net8.0\ref\Exercises_Day_4.dll

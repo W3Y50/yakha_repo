@@ -1,0 +1,6 @@
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\Database\bin\Debug\Database.dacpac
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\Database\bin\Debug\Database.dll
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\Database\bin\Debug\Database.pdb
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\Database\obj\Debug\Database.dll
+C:\Users\pweye\Documents\GitHub\DigitalTwin_Assignment_Javier_Pascal_Kristina\Database\obj\Debug\Database.pdb
